@@ -1,6 +1,4 @@
 
-Here's a professional README file for your Brain Tumor Detection Streamlit application:
-
 Brain Tumor Detection App
 Overview
 The Brain Tumor Detection App is a web-based application developed using Streamlit and Keras, designed to assist in the early detection of brain tumors from MRI images. By leveraging a trained deep learning model, this app provides users with the capability to upload MRI scans and receive immediate predictions regarding the presence of tumors.
